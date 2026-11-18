@@ -1,0 +1,14 @@
+C:\Users\Belometti.22036\source\repos\Server\Server\bin\Debug\net9.0\Server.exe
+C:\Users\Belometti.22036\source\repos\Server\Server\bin\Debug\net9.0\Server.deps.json
+C:\Users\Belometti.22036\source\repos\Server\Server\bin\Debug\net9.0\Server.runtimeconfig.json
+C:\Users\Belometti.22036\source\repos\Server\Server\bin\Debug\net9.0\Server.dll
+C:\Users\Belometti.22036\source\repos\Server\Server\bin\Debug\net9.0\Server.pdb
+C:\Users\Belometti.22036\source\repos\Server\Server\obj\Debug\net9.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Belometti.22036\source\repos\Server\Server\obj\Debug\net9.0\Server.AssemblyInfoInputs.cache
+C:\Users\Belometti.22036\source\repos\Server\Server\obj\Debug\net9.0\Server.AssemblyInfo.cs
+C:\Users\Belometti.22036\source\repos\Server\Server\obj\Debug\net9.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\Belometti.22036\source\repos\Server\Server\obj\Debug\net9.0\Server.dll
+C:\Users\Belometti.22036\source\repos\Server\Server\obj\Debug\net9.0\refint\Server.dll
+C:\Users\Belometti.22036\source\repos\Server\Server\obj\Debug\net9.0\Server.pdb
+C:\Users\Belometti.22036\source\repos\Server\Server\obj\Debug\net9.0\Server.genruntimeconfig.cache
+C:\Users\Belometti.22036\source\repos\Server\Server\obj\Debug\net9.0\ref\Server.dll
